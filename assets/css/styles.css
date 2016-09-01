@@ -159,7 +159,7 @@ iframe {
   text-align: center;
 }
 .header .profile-content .social a .fa-linkedin {
-  background: "#3399ff"
+   background: #3399ff;
 }
 .header .profile-content .social a:hover {
   background: #778492;
