@@ -142,8 +142,7 @@ iframe {
   margin-bottom: 15px;
 }
 .header .profile-content .social a {
-  /*background: #b0b7bf;*/
-  background: #ff0000;
+  background: #b0b7bf;
   width: 36px;
   height: 36px;
   display: inline-block;
@@ -158,22 +157,7 @@ iframe {
   color: #fff;
   text-align: center;
 }
-.header .profile-content .social a .fa-linkedin {
-   background: #3399ff;
-   width: 36px;
-  height: 36px;
-  display: inline-block;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  -o-border-radius: 50%;
-  border-radius: 50%;
-  -moz-background-clip: padding;
-  -webkit-background-clip: padding-box;
-  background-clip: padding-box;
-  color: #fff;
-  text-align: center;
-}
+
 .header .profile-content .social a:hover {
   background: #778492;
 }
