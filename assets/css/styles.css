@@ -173,6 +173,22 @@ iframe {
   color: #fff;
   text-align: center;
 }
+.header .profile-content .social a .fa-github-alt {
+  background: #6600cc;
+  width: 36px;
+  height: 36px;
+  display: inline-block;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  color: #fff;
+  text-align: center;
+}
 .header .profile-content .social a:hover {
   background: #778492;
 }
