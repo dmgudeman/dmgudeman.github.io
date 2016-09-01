@@ -158,6 +158,9 @@ iframe {
   color: #fff;
   text-align: center;
 }
+.fa-linkedin {
+  background: "#3399ff"
+}
 .header .profile-content .social a:hover {
   background: #778492;
 }
