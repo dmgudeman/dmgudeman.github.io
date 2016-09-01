@@ -142,7 +142,8 @@ iframe {
   margin-bottom: 15px;
 }
 .header .profile-content .social a {
-  background: #b0b7bf;
+  /*background: #b0b7bf;*/
+  background: #ff0000;
   width: 36px;
   height: 36px;
   display: inline-block;
