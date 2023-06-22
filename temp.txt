@@ -1,0 +1,1 @@
+Leveraged MongoDB Atlas alongside Mongoose for data modeling, combined with Express.js and Node.js to enable fully validated CRUD operations allowing for reliable commenting and category searching of topics
